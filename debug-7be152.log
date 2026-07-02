@@ -1,0 +1,1 @@
+{"sessionId": "7be152", "runId": "post-fix", "hypothesisId": "H2", "location": "DecisionTree.py:_grow_tree", "message": "split label indexing", "data": {"n_left": 278, "n_right": 177, "y_left_sample": [1, 1, 1]}, "timestamp": 1782996421179}
